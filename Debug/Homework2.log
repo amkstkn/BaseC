@@ -1,0 +1,3 @@
+﻿  Homework2.cpp
+C:\GB\OsnovaC\Homework2\Homework2.cpp(13,25): warning C4305: инициализация: усечение из "double" в "float"
+  Homework2.vcxproj -> C:\GB\OsnovaC\Homework2\Debug\Homework2.exe
